@@ -1,5 +1,9 @@
 #Deploying a Python web application
-echo "Hello World" 
+#cprint('Hello World')
+#echo "Hello World" 
 #shell script
-print('Hello World')
+#print('Hello World')
 #python script
+
+print('Hello World')
+
